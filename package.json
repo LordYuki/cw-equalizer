@@ -1,0 +1,9 @@
+{
+  "name": "equalizer",
+  "version": "1.0.0",
+  "description": "Frontend: equalizes elements grouped by (data-equalizer-group) groups",
+  "main": "index.js",
+  "repository": "https://github.com/LordYuki/cw-equalizer.git",
+  "author": "Roman Wendlinger <r.wendlinger@creating-web.de>",
+  "license": "MIT"
+}
